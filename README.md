@@ -2,8 +2,5 @@
 Transformation project - https://dataworkshop.eu/matrix
 
 
-5 days of transformation coming soon - 1 part:
-- a
-- b
-- c
-
+Part I: Introduction to ML
+Part II: Car prices prediction
